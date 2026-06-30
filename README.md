@@ -86,11 +86,7 @@ Then enter any password to see its strength analysis, or type `quit` to exit.
 - Calculate true password entropy instead of rule-based scoring
 - Add a GUI or web version for broader accessibility
 - Detect predictable patterns (e.g. "Password123!", keyboard walks like "qwerty")
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
+  
+-------
 
 ⭐ If you found this useful, consider giving the repo a star!
